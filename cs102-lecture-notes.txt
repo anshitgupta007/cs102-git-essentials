@@ -1,0 +1,5 @@
+git clone - it will create a folder with a hidden directory named .git
+git status -check the status of repository
+git commit- to store current status of files in git repo permanently
+git push- to push changes to the git server
+git branch - shows all the local branches of the repository
